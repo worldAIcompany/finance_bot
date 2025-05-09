@@ -1,0 +1,27 @@
+# Виртуальные окружения
+venv/
+.venv/
+
+# Логи
+*.log
+
+# Файлы конфигурации среды
+.env
+credentials.json
+credentionals.json
+
+# Кэш и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Файлы IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Excel и другие временные файлы
+*.xlsx
+*.csv 
